@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Services.Canvas
 {
-    public class Canvas
+    public class Canvas : ICanvas
     {
     }
 }

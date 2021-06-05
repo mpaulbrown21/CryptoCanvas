@@ -6,7 +6,9 @@ using System.Threading.Tasks;
 
 namespace Services.Canvas
 {
-    class ICanvas
+    public interface ICanvas
     {
+        // Get Pixels. 
+        // Set Pixel.
     }
 }
